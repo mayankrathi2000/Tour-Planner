@@ -5,27 +5,3 @@
 
 
 
-#ALGORITHM
-       
-1.	start
-2.	main screen with options
-a.	if option == “round trip”
-•	Window of trending destinations
-•	Window displaying list of sources which is to be selected by user
-•	TSP () function is called and output is displayed to the user
-•	Pressing any key results back to main screen 
-b.	if option==” single trip”
-•	Window displaying list of sources which is to be selected by user 
-•	Window displaying list of destinations which is to be selected by user 
-•	Dijkstra () function is called and output is displayed to the user
-•	Pressing any key results back to main screen 
-c.	if option==”user manual”
-•	A text which gives idea of our application
-•	Pressing any key results back to main screen
-d.	if option==” about”
-•	A text which shows developers details
-•	Pressing any key results back to main screen
-e.	if option==” exit”
-•	EXITS OUT OF APPLICATION
-3.	END
-
